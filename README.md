@@ -18,4 +18,5 @@
 <div>
   <img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=Flask&logoColor=white"> 
 </div>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YunSeoHwan)]
+
+![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YunSeoHwan&layout=compact&theme=dracula)
