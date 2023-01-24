@@ -12,13 +12,15 @@
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" /> 
 </div>
 <h3>⚙️FramWork</h3>
 <div>
-  <img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=Flask&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">	
+  <img src="https://img.shields.io/badge/Flask-3776AB?style=flat&logo=Flask&logoColor=white">
 </div>
 
 ![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YunSeoHwan&layout=compact&theme=dracula)
