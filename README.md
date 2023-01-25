@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white">	
   <img src="https://img.shields.io/badge/Flask-3776AB?style=flat&logo=Flask&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white">
 </div>
 
 ![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YunSeoHwan&layout=compact&theme=dracula)
