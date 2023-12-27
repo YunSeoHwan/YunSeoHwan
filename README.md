@@ -1,6 +1,5 @@
 ### :smiley: Hi~ I'm Seo Hwan Yun.
-### 📚 I'm interested in and studying Machine Learning. 
-### :pencil2: Recently, I am studying DNN. In particular, I am studying Computer Vision.
+### 📚 I'm interested in and studying Machine Learning & Deep Learning.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYunSeoHwan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3>💻 BaekJoon</h3>
